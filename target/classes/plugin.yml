@@ -1,0 +1,21 @@
+name: StaffMode
+version: '1.0-BUILD'
+main: me.t62k.staffmode.Main
+authors: [T62K]
+commands:
+  staffmode:
+    description: Entra/Esci dalla staff mode.
+    aliases:
+      - staff
+      - adminmode
+      - modmode
+      - staffm
+      - smode
+  staffvanish:
+    description: Metti/Togli la vanish.
+    aliases:
+      - vanish
+      - staffv
+      - v
+      - svanish
+      - sv
